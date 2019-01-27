@@ -1,7 +1,7 @@
 "use strict";
 
 let stream = require("stream");
-let seq = require('seq-logging');
+let seq = require('@ngbrown/seq-logging');
 
 let LEVEL_NAMES = {
 	10: 'Verbose',

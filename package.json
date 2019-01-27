@@ -1,5 +1,5 @@
 {
-  "name": "bunyan-seq",
+  "name": "@ngbrown/bunyan-seq",
   "version": "0.3.2",
   "description": "A Bunyan stream that sends log events to Seq",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/continuousit/bunyan-seq.git"
+    "url": "git+https://github.com/ngbrown/bunyan-seq.git"
   },
   "keywords": [
     "bunyan",
@@ -17,15 +17,12 @@
   ],
   "author": "Continuous IT and contributors",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/continuousit/bunyan-seq/issues"
-  },
-  "homepage": "https://github.com/continuousit/bunyan-seq#readme",
+  "homepage": "https://github.com/ngbrown/bunyan-seq",
   "devDependencies": {
     "bunyan": "^1.8.0",
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "seq-logging": "^0.2.0"
+    "@ngbrown/seq-logging": "^0.3.0"
   }
 }
