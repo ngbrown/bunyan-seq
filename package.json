@@ -23,6 +23,6 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "@ngbrown/seq-logging": "^0.3.1-patch.0"
+    "@ngbrown/seq-logging": "^0.3.1-patch.1"
   }
 }
